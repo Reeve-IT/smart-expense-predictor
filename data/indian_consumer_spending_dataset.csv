@@ -1,0 +1,301 @@
+User_type,City ,Tier,Salary,Family_Size,Lifestyle,Rent ,Food,Transport,Entertainment,Other_Exp,Savings
+Working Professional,Chennai,Tier 1-Standard,281720,5,Medium,95784.8,49892.4,3622,28172,33806.4,70442.4
+Working Professional,Chennai,Tier 1-Standard,232745,1,Medium,51203.9,46221.55,2535,13964.7,34911.75,83908.1
+Working Professional,Bangalore,Tier 1-Elite,100671,1,Medium,31208.01,19114.07,4143,14093.94,13087.23,19024.75
+Student/Intern,Mumbai,Tier 1-Elite,30813,1,Low,12325.2,5389.43,7595,1540.65,3081.3,881.42
+Student/Intern,Kochi,Tier 2,7110,1,Low,1208.7,3279.8,3684,284.4,924.3,-2271.2
+Working Professional,Kochi,Tier 2,126022,2,Medium,20163.52,24683.96,3229,10081.76,18903.3,48960.46
+Working Professional,Nagpur,Tier 2,283290,1,Medium,33994.8,61490.9,1398,31161.9,39660.6,115583.8
+Student/Intern,Surat,Tier 2,27020,1,Low,4323.2,7674.2,4431,540.4,2161.6,7889.6
+Working Professional,Hyderabad,Tier 1-Standard,277118,4,Medium,80364.22,46338.88,2860,33254.16,41567.7,72733.04
+Student/Intern,Jaipur,Tier 2,14444,1,Low,1444.4,4744.36,2271,866.64,1588.84,3528.76
+Student/Intern,Surat,Tier 2,13074,1,Low,1568.88,3307.4,4070,653.7,1961.1,1512.92
+Student/Intern,Lucknow,Tier 2,12398,1,Low,1487.76,3859.7,3193,371.94,867.86,2617.74
+Student/Intern,Kolkata,Tier 1-Standard,25358,1,Low,5071.6,4789.38,2827,760.74,2535.8,9373.48
+Student/Intern,Chandigarh,Tier 1-Standard,30320,1,Low,8186.4,6851.2,4197,2122.4,3335.2,5627.8
+Working Professional,Hyderabad,Tier 1-Standard,69177,5,Medium,15218.94,15143.63,2084,5534.16,3458.85,27737.42
+Student/Intern,Kolkata,Tier 1-Standard,5272,1,Low,1159.84,2579.92,2384,421.76,369.04,-1642.56
+Student/Intern,Bhopal,Tier 2,30223,1,Low,4835.68,5928.99,2660,1208.92,2720.07,12869.34
+Student/Intern,Kolkata,Tier 1-Standard,30365,1,Low,7591.25,7465.7,3886,2429.2,2732.85,6260
+Working Professional,Gurgaon,Tier 1-Elite,81384,5,Medium,31739.76,13393.76,4368,5696.88,11393.76,14791.84
+Student/Intern,Nagpur,Tier 2,21751,1,Low,2392.61,5045.14,2965,1087.55,1087.55,9173.15
+Student/Intern,Noida,Tier 1-Standard,25615,1,Low,6916.05,4817.65,2673,512.3,2561.5,8134.5
+Working Professional,Delhi,Tier 1-Elite,262173,4,Medium,97004.01,57056.33,10802,15730.38,23595.57,57984.71
+Working Professional,Jaipur,Tier 2,277266,5,Medium,41589.9,29726.6,4301,30499.26,16635.96,154513.28
+Student/Intern,Indore,Tier 2,19847,1,Low,2381.64,5969.4,2238,992.35,992.35,7273.26
+Working Professional,Gurgaon,Tier 1-Elite,187266,3,Medium,82397.04,43198.52,1083,11235.96,18726.6,30624.88
+Working Professional,Visakhapatnam,Tier 2,242919,1,Medium,38867.04,26291.9,2901,19433.52,14575.14,140850.4
+Working Professional,Chennai,Tier 1-Standard,96773,5,Medium,33870.55,17483.68,4161,10645.03,6774.11,23838.63
+Working Professional,Chandigarh,Tier 1-Standard,48062,2,Medium,12976.74,11612.4,1598,4806.2,6728.68,10339.98
+Working Professional,Surat,Tier 2,222913,3,Medium,33436.95,35436.95,2710,15603.91,17833.04,117892.15
+Student/Intern,Gurgaon,Tier 1-Elite,26458,1,Low,10054.04,5968.7,2818,1587.48,1587.48,4442.3
+Working Professional,Kolkata,Tier 1-Standard,126896,1,Medium,32992.96,29917.12,1953,10151.68,7613.76,44267.48
+Working Professional,Bangalore,Tier 1-Elite,106273,5,Medium,52073.77,20066.41,10024,8501.84,6376.38,9230.6
+Student/Intern,Surat,Tier 2,32029,1,Low,3843.48,6804.35,2287,1921.74,3523.19,13649.24
+Working Professional,Nagpur,Tier 2,293883,2,Medium,32327.13,40204.79,3129,26449.47,38204.79,153567.82
+Working Professional,Bangalore,Tier 1-Elite,234795,4,Medium,96265.95,46611.05,7950,23479.5,28175.4,32313.1
+Student/Intern,Chennai,Tier 1-Standard,8776,1,Low,2808.32,3930.72,3593,263.28,1316.4,-3135.72
+Working Professional,Delhi,Tier 1-Elite,279087,3,Medium,125589.15,32699.57,7014,30699.57,25117.83,57966.88
+Student/Intern,Kochi,Tier 2,30301,1,Low,5757.19,8363.21,3158,1515.05,1818.06,9689.49
+Working Professional,Lucknow,Tier 2,219173,2,Medium,32875.95,32684.22,1215,15342.11,32875.95,104179.77
+Student/Intern,Noida,Tier 1-Standard,30887,1,Low,7104.01,6015.31,1311,1544.35,2162.09,12750.24
+Student/Intern,Pune,Tier 1-Standard,5347,1,Low,1390.22,3176.34,1542,320.82,320.82,-1403.2
+Working Professional,Kolkata,Tier 1-Standard,149300,5,Medium,49269,34846,2009,13437,7465,42274
+Student/Intern,Kochi,Tier 2,12053,1,Low,1205.3,3325.83,3054,723.18,843.71,2900.98
+Student/Intern,Kochi,Tier 2,16874,1,Low,2193.62,3856.14,2380,843.7,1012.44,6588.1
+Working Professional,Gurgaon,Tier 1-Elite,132704,5,Medium,62370.88,23232.64,2668,14597.44,17251.52,12583.52
+Student/Intern,Kolkata,Tier 1-Standard,14938,1,Low,4182.64,4987.6,1154,896.28,1493.8,2223.68
+Working Professional,Ahmedabad,Tier 1-Standard,133028,4,Medium,45229.52,23284.48,1256,9311.96,6651.4,47294.64
+Student/Intern,Lucknow,Tier 2,13376,1,Low,1738.88,4140.16,4081,668.8,1203.84,1543.32
+Working Professional,Nagpur,Tier 2,139162,4,Medium,23657.54,27049.16,1641,16699.44,8349.72,61765.14
+Student/Intern,Chennai,Tier 1-Standard,6392,1,Low,1278.4,3278.4,2523,127.84,830.96,-1646.6
+Student/Intern,Delhi,Tier 1-Elite,16125,1,Low,7901.25,5063.75,4667,322.5,1451.25,-3280.75
+Working Professional,Visakhapatnam,Tier 2,115727,4,Medium,15044.51,22830.86,3653,9258.16,16201.78,48738.69
+Student/Intern,Bangalore,Tier 1-Elite,20507,1,Low,8818.01,5076.05,4663,820.28,1230.42,-100.76
+Student/Intern,Ahmedabad,Tier 1-Standard,28493,1,Low,8547.9,5134.23,3755,1139.72,3419.16,6496.99
+Student/Intern,Gurgaon,Tier 1-Elite,15651,1,Low,6260.4,3721.61,2986,1095.57,1408.59,178.83
+Student/Intern,Chandigarh,Tier 1-Standard,8887,1,Low,2577.23,3421.92,2586,266.61,533.22,-497.98
+Student/Intern,Pune,Tier 1-Standard,33743,1,Low,8435.75,8411.17,3224,2362.01,3374.3,7935.77
+Student/Intern,Nagpur,Tier 2,9757,1,Low,1561.12,4048.97,3002,487.85,975.7,-318.64
+Student/Intern,Jaipur,Tier 2,9424,1,Low,1413.6,3130.88,1966,753.92,942.4,1217.2
+Working Professional,Lucknow,Tier 2,285312,3,Medium,39943.68,59062.4,2653,17118.72,25678.08,140856.12
+Working Professional,Pune,Tier 1-Standard,73729,3,Medium,17694.96,16745.8,3014,8110.19,8110.19,20053.86
+Working Professional,Noida,Tier 1-Standard,133193,4,Medium,43953.69,20647.02,4074,7991.58,19978.95,36547.76
+Working Professional,Lucknow,Tier 2,234536,3,Medium,28144.32,51252.56,2349,16417.52,30489.68,105882.92
+Student/Intern,Mumbai,Tier 1-Elite,22800,1,Low,10944,4964,6412,1368,2508,-3396
+Student/Intern,Lucknow,Tier 2,33382,1,Low,5341.12,6005.84,4246,1669.1,2670.56,13449.38
+Working Professional,Nagpur,Tier 2,78208,1,Medium,7820.8,13731.2,1658,7820.8,5474.56,41702.64
+Student/Intern,Ahmedabad,Tier 1-Standard,29874,1,Low,6871.02,5286.14,1258,597.48,2091.18,13770.18
+Student/Intern,Bhopal,Tier 2,24872,1,Low,3730.8,4487.2,2181,746.16,1989.76,11737.08
+Student/Intern,Bangalore,Tier 1-Elite,14834,1,Low,4450.2,3483.4,10580,445.02,1631.74,-5756.36
+Student/Intern,Bangalore,Tier 1-Elite,9517,1,Low,3330.95,3998.57,4166,761.36,666.19,-3406.07
+Student/Intern,Ahmedabad,Tier 1-Standard,12396,1,Low,3594.84,3983.36,4334,371.88,991.68,-879.76
+Working Professional,Patna,Tier 2,230077,1,Medium,43714.63,43413.86,1432,23007.7,27609.24,90899.57
+Student/Intern,Delhi,Tier 1-Elite,16776,1,Low,5200.56,5690.72,6285,503.28,2516.4,-3419.96
+Student/Intern,Indore,Tier 2,13099,1,Low,1440.89,3833.86,1607,916.93,916.93,4383.39
+Working Professional,Surat,Tier 2,203050,2,Medium,38579.5,28396.5,4364,22335.5,28427,80947.5
+Working Professional,Chennai,Tier 1-Standard,79717,3,Medium,16740.57,9971.7,1621,7174.53,3985.85,40223.35
+Working Professional,Gurgaon,Tier 1-Elite,132715,5,Medium,59721.75,23234.4,1945,11944.35,7962.9,27906.6
+Student/Intern,Ahmedabad,Tier 1-Standard,18740,1,Low,5809.4,4623.6,2100,1311.8,937,3958.2
+Student/Intern,Chennai,Tier 1-Standard,32320,1,Low,7433.6,8787.2,3102,1616,2585.6,8795.6
+Student/Intern,Delhi,Tier 1-Elite,23304,1,Low,10486.8,5728.64,9458,1864.32,1631.28,-5865.04
+Student/Intern,Kochi,Tier 2,21357,1,Low,2349.27,6698.54,3852,640.71,1494.99,6321.49
+Student/Intern,Surat,Tier 2,15369,1,Low,1997.97,3844.28,2166,1229.52,1536.9,4594.33
+Working Professional,Nagpur,Tier 2,259590,5,Medium,46726.2,51322.1,3366,18171.3,36342.6,103661.8
+Student/Intern,Pune,Tier 1-Standard,17320,1,Low,3464,4771.2,2434,346.4,866,5438.4
+Working Professional,Kolkata,Tier 1-Standard,233221,5,Medium,72298.51,34650.94,2688,25654.31,18657.68,79271.56
+Working Professional,Hyderabad,Tier 1-Standard,98738,5,Medium,30608.78,13848.56,2980,10861.18,12835.94,27603.54
+Student/Intern,Gurgaon,Tier 1-Elite,33072,1,Low,13890.24,7952.96,3118,1653.6,3637.92,2819.28
+Student/Intern,Kolkata,Tier 1-Standard,15355,1,Low,3224.55,5071,1575,921.3,1074.85,3488.3
+Working Professional,Nagpur,Tier 2,255650,5,Medium,35791,48017,3602,23008.5,35791,109440.5
+Working Professional,Pune,Tier 1-Standard,194057,2,Medium,50454.82,42751.97,3785,17465.13,21346.27,58253.81
+Working Professional,Visakhapatnam,Tier 2,273646,1,Medium,27364.6,40310.44,3131,19155.22,32837.52,150847.22
+Working Professional,Indore,Tier 2,84896,3,Medium,16979.2,20677.12,1115,5093.76,11036.48,29994.44
+Student/Intern,Mumbai,Tier 1-Elite,9966,1,Low,4086.06,3694.22,4817,797.28,1096.26,-4524.82
+Student/Intern,Delhi,Tier 1-Elite,29702,1,Low,11286.76,5564.24,5596,1188.08,1782.12,4284.8
+Working Professional,Jaipur,Tier 2,274265,2,Medium,35654.45,54110.35,1245,27426.5,35654.45,120174.25
+Working Professional,Bangalore,Tier 1-Elite,144809,4,Medium,49235.06,25169.44,9317,10136.63,10136.63,40814.24
+Working Professional,Gurgaon,Tier 1-Elite,213484,2,Medium,81123.92,23348.4,4070,12809.04,29887.76,62244.88
+Working Professional,Bhopal,Tier 2,94173,5,Medium,17892.87,19892.87,2992,11300.76,12242.49,29852.01
+Working Professional,Visakhapatnam,Tier 2,207831,5,Medium,27018.03,45644.51,2210,14548.17,22861.41,95548.88
+Student/Intern,Visakhapatnam,Tier 2,28378,1,Low,2837.8,5405.36,2107,567.56,1986.46,15473.82
+Working Professional,Gurgaon,Tier 1-Elite,74220,3,Medium,27461.4,12390.8,1292,5937.6,7422,19716.2
+Student/Intern,Patna,Tier 2,34720,1,Low,5555.2,8596.8,2335,1041.6,1736,15455.4
+Student/Intern,Surat,Tier 2,6073,1,Low,910.95,2607.3,1843,425.11,546.57,-259.93
+Student/Intern,Chandigarh,Tier 1-Standard,18156,1,Low,3631.2,4541.84,1117,544.68,2178.72,6142.56
+Working Professional,Lucknow,Tier 2,105059,4,Medium,21011.8,23011.8,1301,6303.54,12607.08,40823.78
+Student/Intern,Pune,Tier 1-Standard,18732,1,Low,6181.56,5746.4,1443,749.28,1685.88,2925.88
+Working Professional,Mumbai,Tier 1-Elite,214270,1,Medium,100706.9,27712.4,9012,23569.7,12856.2,40412.8
+Student/Intern,Surat,Tier 2,7635,1,Low,992.55,2839.85,3618,381.75,763.5,-960.65
+Working Professional,Kolkata,Tier 1-Standard,101852,1,Medium,31574.12,12185.2,1742,12222.24,15277.8,28850.64
+Student/Intern,Bangalore,Tier 1-Elite,20267,1,Low,6080.1,6256.07,8070,1621.36,2026.7,-3787.23
+Student/Intern,Gurgaon,Tier 1-Elite,24084,1,Low,8188.56,6094.28,4381,1204.2,3371.76,844.2
+Student/Intern,Bangalore,Tier 1-Elite,8985,1,Low,3773.7,3168.05,7860,718.8,1078.2,-7613.75
+Student/Intern,Nagpur,Tier 2,25794,1,Low,4384.98,4837.34,3481,515.88,3095.28,9479.52
+Working Professional,Hyderabad,Tier 1-Standard,122586,3,Medium,31872.36,24065.48,3982,8581.02,11032.74,43052.4
+Working Professional,Chandigarh,Tier 1-Standard,85161,4,Medium,22993.47,17328.98,1968,5961.27,6812.88,30096.4
+Working Professional,Bhopal,Tier 2,162396,5,Medium,16239.6,26359.4,4237,19487.52,17863.56,78208.92
+Student/Intern,Kolkata,Tier 1-Standard,28199,1,Low,9023.68,6511.84,3498,1127.96,4229.85,3807.67
+Working Professional,Surat,Tier 2,281173,3,Medium,50611.14,52611.14,1135,16870.38,36552.49,123392.85
+Student/Intern,Visakhapatnam,Tier 2,16698,1,Low,2003.76,5172.62,1063,500.94,1502.82,6454.86
+Student/Intern,Gurgaon,Tier 1-Elite,15159,1,Low,6669.96,4122.26,1575,303.18,1061.13,1427.47
+Working Professional,Mumbai,Tier 1-Elite,282330,3,Medium,138341.7,38702.9,8166,25409.7,31056.3,40653.4
+Student/Intern,Delhi,Tier 1-Elite,28344,1,Low,9636.96,5684.72,10630,850.32,3117.84,-1575.84
+Student/Intern,Pune,Tier 1-Standard,34672,1,Low,8321.28,7200.8,1971,1040.16,3813.92,12324.84
+Working Professional,Kolkata,Tier 1-Standard,231896,2,Medium,76525.68,34465.44,3702,20870.64,34784.4,61547.84
+Student/Intern,Hyderabad,Tier 1-Standard,15723,1,Low,5503.05,5301.83,1608,1100.61,1100.61,1108.9
+Student/Intern,Patna,Tier 2,5971,1,Low,716.52,2716.52,2267,179.13,477.68,-385.85
+Student/Intern,Visakhapatnam,Tier 2,18477,1,Low,2032.47,5325.86,1528,923.85,2032.47,6634.35
+Working Professional,Lucknow,Tier 2,94410,3,Medium,16993.8,13329.2,1869,6608.7,9441,46168.3
+Working Professional,Bangalore,Tier 1-Elite,133249,1,Medium,57297.07,16657.39,9470,11992.41,6662.45,31169.68
+Student/Intern,Lucknow,Tier 2,33167,1,Low,5638.39,6643.38,3941,2321.69,2985.03,11637.51
+Student/Intern,Hyderabad,Tier 1-Standard,12516,1,Low,2878.68,3501.92,4025,1001.28,1376.76,-267.64
+Working Professional,Gurgaon,Tier 1-Elite,97610,4,Medium,34163.5,15665.4,2122,6832.7,9761,29065.4
+Student/Intern,Lucknow,Tier 2,24244,1,Low,4121.48,7333.68,3840,969.76,2909.28,5069.8
+Student/Intern,Mumbai,Tier 1-Elite,25127,1,Low,8794.45,6020.32,10483,502.54,3517.78,-4191.09
+Working Professional,Kolkata,Tier 1-Standard,93569,5,Medium,26199.32,21649.49,1165,5614.14,6549.83,32391.22
+Working Professional,Visakhapatnam,Tier 2,172780,2,Medium,19005.8,19278,4082,17278,24189.2,88947
+Working Professional,Jaipur,Tier 2,100037,1,Medium,14005.18,24008.14,2499,12004.44,13004.81,34515.43
+Working Professional,Hyderabad,Tier 1-Standard,281323,1,Medium,87210.13,63891.06,3183,33758.76,42198.45,51081.6
+Student/Intern,Nagpur,Tier 2,33175,1,Low,5639.75,5981,3858,995.25,3649.25,13051.75
+Student/Intern,Patna,Tier 2,32988,1,Low,4948.2,7607.96,1007,1979.28,3958.56,13487
+Working Professional,Kochi,Tier 2,46598,1,Medium,9319.6,9455.68,1118,2795.88,5591.76,18317.08
+Student/Intern,Gurgaon,Tier 1-Elite,25704,1,Low,8225.28,4827.44,2526,1285.2,3855.6,4984.48
+Student/Intern,Gurgaon,Tier 1-Elite,19319,1,Low,6182.08,5091.04,2261,1352.33,1159.14,3273.41
+Working Professional,Patna,Tier 2,227101,2,Medium,34065.15,42878.18,3476,27252.12,18168.08,101261.47
+Student/Intern,Patna,Tier 2,29243,1,Low,4094.02,7556.17,4110,1169.72,1462.15,10850.94
+Working Professional,Chennai,Tier 1-Standard,129126,1,Medium,38737.8,21368.9,4488,14203.86,19368.9,30958.54
+Working Professional,Delhi,Tier 1-Elite,102199,3,Medium,51099.5,20395.82,9276,12263.88,11241.89,-2078.09
+Working Professional,Kochi,Tier 2,175303,5,Medium,31554.54,28295.45,3448,19283.33,14024.24,78697.44
+Working Professional,Noida,Tier 1-Standard,69017,3,Medium,21395.27,13042.72,2083,7591.87,3450.85,21453.29
+Working Professional,Hyderabad,Tier 1-Standard,82375,5,Medium,18122.5,12708.75,2867,5766.25,8237.5,34673
+Student/Intern,Patna,Tier 2,19490,1,Low,2923.5,4533.7,1084,1559.2,2143.9,7245.7
+Student/Intern,Chennai,Tier 1-Standard,22200,1,Low,5550,4886,4352,1776,1776,3860
+Student/Intern,Kochi,Tier 2,20147,1,Low,2216.17,5626.46,2316,1007.35,1007.35,7973.67
+Student/Intern,Hyderabad,Tier 1-Standard,33164,1,Low,10612.48,9296.08,3684,1326.56,3648.04,4596.84
+Working Professional,Gurgaon,Tier 1-Elite,228209,3,Medium,70744.79,33949.26,3369,25102.99,31949.26,63093.7
+Working Professional,Bhopal,Tier 2,249658,2,Medium,49931.6,49435.02,4145,17476.06,24965.8,103704.52
+Working Professional,Pune,Tier 1-Standard,47276,5,Medium,13237.28,9564.16,1710,5200.36,3309.32,14254.88
+Student/Intern,Kochi,Tier 2,6906,1,Low,966.84,3519.32,1291,345.3,621.54,162
+Student/Intern,Visakhapatnam,Tier 2,34499,1,Low,4139.88,7864.83,1610,2759.92,4139.88,13984.49
+Student/Intern,Bhopal,Tier 2,14859,1,Low,2674.62,4080.26,3320,1040.13,891.54,2852.45
+Working Professional,Visakhapatnam,Tier 2,206506,5,Medium,37171.08,47431.32,4076,18585.54,24780.72,74461.34
+Student/Intern,Kochi,Tier 2,16647,1,Low,1831.17,3997.64,4085,998.82,998.82,4735.55
+Working Professional,Gurgaon,Tier 1-Elite,61378,1,Medium,23937.42,10592.92,2856,3682.68,6751.58,13557.4
+Student/Intern,Bangalore,Tier 1-Elite,12453,1,Low,4607.61,3867.95,4218,498.12,996.24,-1734.92
+Student/Intern,Visakhapatnam,Tier 2,16141,1,Low,2905.38,3614.1,2709,968.46,2421.15,3522.91
+Student/Intern,Bangalore,Tier 1-Elite,21358,1,Low,8970.36,4135.8,5484,640.74,3203.7,-1076.6
+Working Professional,Ahmedabad,Tier 1-Standard,180918,2,Medium,48847.86,20091.8,4092,18091.8,27137.7,62656.84
+Working Professional,Patna,Tier 2,160617,2,Medium,19274.04,22880.21,2131,14455.53,16061.7,85814.52
+Student/Intern,Ahmedabad,Tier 1-Standard,6080,1,Low,1459.2,3033.6,2692,243.2,608,-1956
+Working Professional,Ahmedabad,Tier 1-Standard,81606,4,Medium,20401.5,15056.96,3612,5712.42,8976.66,27846.46
+Working Professional,Mumbai,Tier 1-Elite,198712,3,Medium,77497.68,31806.8,8285,13909.84,9935.6,57277.08
+Working Professional,Hyderabad,Tier 1-Standard,137089,2,Medium,28788.69,25305.13,2389,15079.79,20563.35,44963.04
+Working Professional,Noida,Tier 1-Standard,89991,5,Medium,25197.48,13698.83,1915,7199.28,8099.19,33881.22
+Student/Intern,Visakhapatnam,Tier 2,20979,1,Low,2937.06,6615.38,1953,419.58,1048.95,8005.03
+Student/Intern,Bhopal,Tier 2,12520,1,Low,1502.4,3752.8,1284,876.4,876.4,4228
+Student/Intern,Jaipur,Tier 2,13378,1,Low,2274.26,4943.16,2674,401.34,1070.24,2015
+Student/Intern,Hyderabad,Tier 1-Standard,16402,1,Low,4264.52,5444.42,2240,328.04,2132.26,1992.76
+Working Professional,Chennai,Tier 1-Standard,123671,2,Medium,33391.17,27970.91,4237,7420.26,13603.81,37047.85
+Student/Intern,Gurgaon,Tier 1-Elite,22949,1,Low,11245.01,5442.35,3334,1606.43,2294.9,-973.69
+Student/Intern,Delhi,Tier 1-Elite,12951,1,Low,4144.32,4460.69,9186,388.53,1683.63,-6912.17
+Student/Intern,Gurgaon,Tier 1-Elite,20096,1,Low,7234.56,5014.4,2646,803.84,1205.76,3191.44
+Working Professional,Noida,Tier 1-Standard,189439,5,Medium,51148.53,39887.8,1252,18943.9,22732.68,55474.09
+Student/Intern,Lucknow,Tier 2,31586,1,Low,5369.62,5158.6,2486,1263.44,2526.88,14781.46
+Working Professional,Lucknow,Tier 2,227539,2,Medium,29580.07,45232.41,1925,25029.29,13652.34,112119.89
+Working Professional,Kochi,Tier 2,211099,2,Medium,37997.82,31553.86,3128,16887.92,21109.9,100421.5
+Student/Intern,Mumbai,Tier 1-Elite,25556,1,Low,10222.4,5322.28,5340,2044.48,3577.84,-951
+Student/Intern,Gurgaon,Tier 1-Elite,10794,1,Low,4749.36,3727.04,4004,755.58,1187.34,-3629.32
+Working Professional,Ahmedabad,Tier 1-Standard,65101,4,Medium,21483.33,13718.18,2785,6510.1,7812.12,12792.27
+Working Professional,Delhi,Tier 1-Elite,50454,4,Medium,16145.28,9568.1,6227,5549.94,7568.1,5395.58
+Student/Intern,Kolkata,Tier 1-Standard,26108,1,Low,6004.84,6699.44,4135,2088.64,1566.48,5613.6
+Student/Intern,Chandigarh,Tier 1-Standard,15634,1,Low,4690.2,4032.42,1280,312.68,1250.72,4067.98
+Working Professional,Kochi,Tier 2,111239,1,Medium,13348.68,23135.41,4438,13348.68,16685.85,40282.38
+Student/Intern,Noida,Tier 1-Standard,24854,1,Low,7704.74,5976.64,3400,497.08,1242.7,6032.84
+Working Professional,Patna,Tier 2,70624,4,Medium,7062.4,17537.28,3751,6356.16,4943.68,30973.48
+Student/Intern,Kolkata,Tier 1-Standard,11529,1,Low,4035.15,4075.22,3607,230.58,576.45,-995.4
+Working Professional,Gurgaon,Tier 1-Elite,164645,3,Medium,74090.25,18464.5,4455,16464.5,24696.75,26474
+Student/Intern,Hyderabad,Tier 1-Standard,13516,1,Low,3919.64,4297.72,3080,540.64,1486.76,191.24
+Working Professional,Hyderabad,Tier 1-Standard,227918,4,Medium,72933.76,31629.34,2315,13675.08,31908.52,75456.3
+Working Professional,Kochi,Tier 2,104572,4,Medium,17777.24,21868.68,2739,6274.32,14640.08,41272.68
+Working Professional,Noida,Tier 1-Standard,200909,2,Medium,70318.15,42181.8,3458,14063.63,30136.35,40751.07
+Working Professional,Chennai,Tier 1-Standard,85806,3,Medium,17161.2,20019.26,2430,7722.54,12012.84,26460.16
+Student/Intern,Pune,Tier 1-Standard,9471,1,Low,2841.3,3704.78,2589,662.97,473.55,-800.6
+Working Professional,Noida,Tier 1-Standard,104676,4,Medium,30356.04,19794.92,1307,12561.12,9420.84,31236.08
+Working Professional,Mumbai,Tier 1-Elite,163291,3,Medium,65316.4,23227.83,8521,16329.1,16329.1,33567.57
+Student/Intern,Lucknow,Tier 2,19622,1,Low,2550.86,5728.18,4083,784.88,1765.98,4709.1
+Working Professional,Chandigarh,Tier 1-Standard,49439,4,Medium,16809.26,11887.8,2199,3460.73,5438.29,9643.92
+Working Professional,Visakhapatnam,Tier 2,207445,4,Medium,41489,45563.45,3120,16595.6,14521.15,86155.8
+Student/Intern,Bhopal,Tier 2,6811,1,Low,681.1,2953.54,2554,272.44,1021.65,-671.73
+Student/Intern,Delhi,Tier 1-Elite,6437,1,Low,2059.84,3029.92,4592,257.48,450.59,-3952.83
+Student/Intern,Lucknow,Tier 2,7110,1,Low,1422,3493.1,3275,213.3,924.3,-2217.7
+Working Professional,Ahmedabad,Tier 1-Standard,261158,1,Medium,60066.34,59454.76,3872,28727.38,28727.38,80310.14
+Working Professional,Bangalore,Tier 1-Elite,185719,4,Medium,81716.36,35429.42,7039,16714.71,27857.85,16961.66
+Student/Intern,Gurgaon,Tier 1-Elite,25340,1,Low,8615.6,7574.8,2088,2027.2,3294.2,1740.2
+Student/Intern,Patna,Tier 2,6432,1,Low,771.84,3286.4,2301,257.28,707.52,-892.04
+Working Professional,Lucknow,Tier 2,289864,4,Medium,34783.68,62871.44,2373,17391.84,40580.96,131863.08
+Working Professional,Bhopal,Tier 2,107047,2,Medium,11775.17,24479.87,4176,10704.7,10704.7,45206.56
+Student/Intern,Kochi,Tier 2,9019,1,Low,901.9,3262.66,3646,721.52,811.71,-324.79
+Working Professional,Kochi,Tier 2,269239,2,Medium,26923.9,34308.68,1487,24231.51,29616.29,152671.62
+Working Professional,Jaipur,Tier 2,154902,4,Medium,26333.34,26784.32,2669,18588.24,12392.16,68134.94
+Student/Intern,Ahmedabad,Tier 1-Standard,14438,1,Low,4620.16,4887.6,3077,1155.04,1876.94,-1178.74
+Student/Intern,Pune,Tier 1-Standard,28585,1,Low,9433.05,7145.3,1272,1143.4,3430.2,6161.05
+Working Professional,Gurgaon,Tier 1-Elite,119874,3,Medium,40757.16,25974.8,1211,9589.92,13186.14,29154.98
+Student/Intern,Hyderabad,Tier 1-Standard,17335,1,Low,5720.55,4773.6,1068,1386.8,2080.2,2305.85
+Student/Intern,Kolkata,Tier 1-Standard,20718,1,Low,6422.58,6557.96,2390,414.36,1657.44,3275.66
+Student/Intern,Chennai,Tier 1-Standard,28346,1,Low,7369.96,6251.9,3460,1700.76,2551.14,7012.24
+Student/Intern,Mumbai,Tier 1-Elite,8892,1,Low,4179.24,2889.2,6467,622.44,1333.8,-6599.68
+Student/Intern,Bangalore,Tier 1-Elite,8167,1,Low,4001.83,3715.07,8236,408.35,653.36,-8847.61
+Student/Intern,Kochi,Tier 2,30190,1,Low,5434.2,6226.6,3773,2113.3,2717.1,9925.8
+Student/Intern,Visakhapatnam,Tier 2,21546,1,Low,4309.2,4800.98,1285,861.84,2370.06,7918.92
+Student/Intern,Delhi,Tier 1-Elite,13345,1,Low,4670.75,3868.3,5284,400.35,1467.95,-2346.35
+Student/Intern,Lucknow,Tier 2,20205,1,Low,3434.85,4020.5,1014,808.2,1414.35,9513.1
+Student/Intern,Ahmedabad,Tier 1-Standard,17280,1,Low,5356.8,5801.6,1844,1036.8,1555.2,1685.6
+Student/Intern,Bangalore,Tier 1-Elite,32463,1,Low,13959.09,6220.19,7630,649.26,3895.56,108.9
+Working Professional,Chandigarh,Tier 1-Standard,241638,3,Medium,70075.02,26163.8,4330,26580.18,28996.56,85492.44
+Working Professional,Kochi,Tier 2,91462,5,Medium,13719.3,18463.16,2994,8231.58,9146.2,38907.76
+Student/Intern,Visakhapatnam,Tier 2,5623,1,Low,562.3,2843.45,3421,224.92,674.76,-2103.43
+Working Professional,Mumbai,Tier 1-Elite,106299,1,Medium,41456.61,16881.86,5541,6377.94,12755.88,23285.71
+Working Professional,Mumbai,Tier 1-Elite,97472,4,Medium,30216.32,21494.4,5548,9747.2,8772.48,21693.6
+Student/Intern,Kochi,Tier 2,31348,1,Low,5956.12,6388.72,1072,940.44,2194.36,14796.36
+Student/Intern,Visakhapatnam,Tier 2,29557,1,Low,5911.4,6729.12,1703,2364.56,2068.99,10779.93
+Working Professional,Jaipur,Tier 2,53626,2,Medium,9116.42,11652.68,3420,5898.86,4290.08,19247.96
+Working Professional,Nagpur,Tier 2,200906,5,Medium,36163.08,26108.72,3524,20090.6,22099.66,92919.94
+Student/Intern,Mumbai,Tier 1-Elite,9973,1,Low,3590.28,3495.95,6258,498.65,698.11,-4567.99
+Working Professional,Delhi,Tier 1-Elite,199650,2,Medium,63888,35940.5,5056,11979,27951,54835.5
+Working Professional,Kochi,Tier 2,277516,4,Medium,27751.6,63053.52,3921,22201.28,13875.8,146712.8
+Student/Intern,Jaipur,Tier 2,24033,1,Low,2643.63,6085.61,1711,720.99,1922.64,10949.13
+Working Professional,Kolkata,Tier 1-Standard,235071,4,Medium,63469.17,53715.62,1682,28208.52,25857.81,62137.88
+Working Professional,Visakhapatnam,Tier 2,241185,2,Medium,31354.05,30942.2,1945,14471.1,14471.1,148001.55
+Working Professional,Mumbai,Tier 1-Elite,219731,4,Medium,94484.33,26170.41,6161,19775.79,17578.48,55560.99
+Working Professional,Pune,Tier 1-Standard,280814,1,Medium,73011.64,63779.08,1458,22465.12,33697.68,86402.48
+Working Professional,Nagpur,Tier 2,285521,4,Medium,45683.36,56248.99,1662,31407.31,22841.68,127677.66
+Working Professional,Indore,Tier 2,121949,5,Medium,18292.35,16633.88,4166,10975.41,9755.92,62125.44
+Working Professional,Patna,Tier 2,204683,3,Medium,36842.94,36796.11,2229,12280.98,12280.98,104252.99
+Working Professional,Bangalore,Tier 1-Elite,283517,4,Medium,113406.8,58703.4,5693,22681.36,42527.55,40504.89
+Student/Intern,Bhopal,Tier 2,21124,1,Low,2746.12,5168.6,3480,1478.68,2957.36,5293.24
+Working Professional,Hyderabad,Tier 1-Standard,247455,5,Medium,56914.65,56440.1,1496,24745.5,17321.85,90536.9
+Student/Intern,Indore,Tier 2,33312,1,Low,6662.4,5331.2,4327,666.24,2998.08,13327.08
+Working Professional,Mumbai,Tier 1-Elite,163135,4,Medium,58728.6,36258.35,4314,14682.15,8156.75,40995.15
+Working Professional,Chennai,Tier 1-Standard,100412,1,Medium,33135.96,13045.32,3723,6024.72,7028.84,37454.16
+Student/Intern,Bhopal,Tier 2,24694,1,Low,2716.34,7432.68,1754,493.88,1481.64,10815.46
+Student/Intern,Delhi,Tier 1-Elite,32790,1,Low,11804.4,6590.6,10318,1639.5,2295.3,142.2
+Student/Intern,Chandigarh,Tier 1-Standard,34976,1,Low,9793.28,6546.88,1037,2448.32,1748.8,13401.72
+Student/Intern,Visakhapatnam,Tier 2,7929,1,Low,951.48,3585.8,3804,555.03,555.03,-1522.34
+Student/Intern,Bangalore,Tier 1-Elite,26960,1,Low,8627.2,6044,8532,1887.2,2156.8,-287.2
+Student/Intern,Lucknow,Tier 2,22782,1,Low,3417.3,4278.2,1361,455.64,2506.02,10763.84
+Student/Intern,Chennai,Tier 1-Standard,19792,1,Low,6135.52,6354.24,1183,1583.36,2968.8,1567.08
+Student/Intern,Chennai,Tier 1-Standard,17950,1,Low,4667,4333.5,1656,897.5,1077,5319
+Student/Intern,Visakhapatnam,Tier 2,9230,1,Low,1292.2,3015.3,4030,738.4,1199.9,-1045.8
+Working Professional,Lucknow,Tier 2,230544,1,Medium,29970.72,48108.8,2154,23054.4,29970.72,97285.36
+Working Professional,Jaipur,Tier 2,160737,3,Medium,20895.81,34147.4,3131,17681.07,9644.22,75237.5
+Student/Intern,Gurgaon,Tier 1-Elite,16740,1,Low,7867.8,4845.8,3566,1339.2,1674,-2552.8
+Working Professional,Kochi,Tier 2,277816,4,Medium,47228.72,35337.92,2356,16668.96,16668.96,159555.44
+Working Professional,Chandigarh,Tier 1-Standard,136972,3,Medium,35612.72,30764.12,3742,13697.2,10957.76,42198.2
+Working Professional,Patna,Tier 2,90701,1,Medium,17233.19,21047.21,3678,10884.12,10884.12,26974.36
+Student/Intern,Delhi,Tier 1-Elite,16998,1,Low,8499,5739.56,4805,679.92,1699.8,-4425.28
+Working Professional,Indore,Tier 2,233845,2,Medium,42092.1,51107.45,4033,23384.5,30399.85,82828.1
+Working Professional,Kochi,Tier 2,162710,4,Medium,24406.5,26406.5,2143,17898.1,14643.9,77212
+Student/Intern,Kochi,Tier 2,23358,1,Low,4671.6,4802.96,4403,1401.48,1635.06,6443.9
+Working Professional,Indore,Tier 2,200428,1,Medium,40085.6,34068.48,3125,18038.52,30064.2,75046.2
+Student/Intern,Jaipur,Tier 2,24818,1,Low,4467.24,5474.52,1469,1240.9,3226.34,8940
+Working Professional,Delhi,Tier 1-Elite,244739,2,Medium,122369.5,43605.63,4580,14684.34,29368.68,30130.85
+Student/Intern,Lucknow,Tier 2,21845,1,Low,2184.5,4184.5,2175,1310.7,2184.5,9805.8
+Student/Intern,Nagpur,Tier 2,7563,1,Low,1436.97,2756.3,2537,151.26,1134.45,-452.98
+Working Professional,Visakhapatnam,Tier 2,205298,5,Medium,39006.62,36900.66,4292,14370.86,22582.78,88145.08
+Student/Intern,Mumbai,Tier 1-Elite,34843,1,Low,16724.64,9317.03,7973,1742.15,3135.87,-4049.69
+Working Professional,Hyderabad,Tier 1-Standard,262124,1,Medium,83879.68,28212.4,4037,31454.88,26212.4,88327.64
+Student/Intern,Patna,Tier 2,21560,1,Low,3234,6743.2,3645,862.4,1293.6,5781.8
+Working Professional,Kochi,Tier 2,251358,1,Medium,27649.38,37190.12,1246,22622.22,32676.54,129973.74
+Working Professional,Patna,Tier 2,73478,2,Medium,11021.7,17430.38,2881,4408.68,4408.68,33327.56
+Working Professional,Bhopal,Tier 2,260220,5,Medium,46839.6,38430.8,1697,26022,26022,121208.6
+Student/Intern,Kochi,Tier 2,8733,1,Low,960.63,3135.29,2972,261.99,436.65,966.44
+Working Professional,Gurgaon,Tier 1-Elite,262941,2,Medium,131470.5,28294.1,1630,31552.92,21035.28,48958.2
+Working Professional,Jaipur,Tier 2,202171,2,Medium,32347.36,36369.07,1696,14151.97,22238.81,95367.79
+Working Professional,Indore,Tier 2,210519,5,Medium,23157.09,25157.09,4228,18946.71,12631.14,126398.97
+Student/Intern,Pune,Tier 1-Standard,12088,1,Low,4109.92,3692.32,2481,604.4,725.28,475.08
+Working Professional,Noida,Tier 1-Standard,190685,1,Medium,66739.75,22975.35,1208,11441.1,28602.75,59718.05
+Working Professional,Nagpur,Tier 2,161074,2,Medium,30604.06,18107.4,4144,16107.4,12885.92,79225.22
+Working Professional,Visakhapatnam,Tier 2,47869,4,Medium,7659.04,7265.59,1609,5265.59,6222.97,19846.81
+Working Professional,Indore,Tier 2,224921,2,Medium,29239.73,44734.99,3343,26990.52,11246.05,109366.71
+Working Professional,Visakhapatnam,Tier 2,230224,2,Medium,36835.84,43440.32,2625,23022.4,27626.88,96673.56
