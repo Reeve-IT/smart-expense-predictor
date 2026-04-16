@@ -28,7 +28,7 @@ def predict_expense(user_input,model,encoder,scaler):
       'Food':prediction[0][1],
       'Transport':prediction[0][2],
       'Entertainment':prediction[0][3],
-      'Other Expenses':prediction[0][4]
+      'Other':prediction[0][4]
   }
   return output
 
@@ -43,7 +43,18 @@ def analyze_expense(user_input,prediction):
   food=prediction['Food']
   transport=prediction['Transport']
   entertainment=prediction['Entertainment']
-  other=prediction['Other Expenses']
+  other=prediction['Other']
+  lifestyle=user_input['lifestyle']
+  
+  #adjust spending based on lifestyle
+  if lifestyle == "High":
+        food *=1.2
+        entertainment*=1.3
+        transport*=1.1
+  elif lifestyle == "Low":
+        food *= 0.8
+        entertainment *= 0.7
+        transport *= 0.9
 
   total_expenses=rent+food+transport+entertainment+other
   savings=salary-total_expenses
@@ -66,13 +77,20 @@ def analyze_expense(user_input,prediction):
   #rule 5: negative savings
   if savings < 0:
     insights.append("You are Overspending!")
-
+    #suggest adjustments
+    reduction_needed=abs(savings)
+    insights.append(f"Try Reducing expenses by ₹{int(reduction_needed)}")
+  if savings > 0.3 * salary:
+        insights.append(" Great saving habits!")
+  elif savings > 0.1 * salary:
+        insights.append(" Decent savings, can improve more")
+  
   result={
       "Rent":rent,
       "Food":food,
       "Transport":transport,
       "Entertainment":entertainment,
-      "Other Expenses":other,
+      "Other":other,
       "Total Expenses":total_expenses,
       "Savings":savings,
       "Insights":insights

@@ -21,7 +21,7 @@ numerical_cols=['salary','family_size']
 
  #apply One-Hot Encoding to categorical data
 #encoder = OneHotEncoder(sparse=False, drop='first')
-encoder=OneHotEncoder(sparse_output=False,drop='first')
+encoder=OneHotEncoder(sparse_output=False,drop='first',handle_unknown='ignore')
 enncoded_data=encoder.fit_transform(x[categorical_cols])
 
  #convert encoded data into into DataFrame
@@ -100,7 +100,7 @@ def predict_expense(user_input,model,encoder,scaler):
       'Food':prediction[0][1],
       'Transport':prediction[0][2],
       'Entertainment':prediction[0][3],
-      'Other Expenses':prediction[0][4]
+      "Other": prediction[0][4]
   }
   return output
 
@@ -125,7 +125,7 @@ def analyze_expense(user_input,prediction):
   food=prediction['Food']
   transport=prediction['Transport']
   entertainment=prediction['Entertainment']
-  other=prediction['Other Expenses']
+  other=prediction['Other']
 
   total_expenses=rent+food+transport+entertainment+other
   savings=salary-total_expenses
@@ -154,7 +154,7 @@ def analyze_expense(user_input,prediction):
       "Food":food,
       "Transport":transport,
       "Entertainment":entertainment,
-      "Other Expenses":other,
+      "Other":other,
       "Total Expenses":total_expenses,
       "Savings":savings,
       "Insights":insights
