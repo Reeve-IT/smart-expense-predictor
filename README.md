@@ -5,8 +5,7 @@ A machine learning-based web app that predicts monthly expense breakdown for Ind
 It also provides financial insights to help users manage spending and improve savings.
 
 ##  Live Demo
-https://your-app.streamlit.app
-
+https://smart-expense-predictorgit-buzuynrmk3cp4xpl7qqzni.streamlit.app/
 ##  Features
 
 - Predicts monthly expenses (Rent, Food, Transport, Entertainment, Other)
