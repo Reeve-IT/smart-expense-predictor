@@ -55,7 +55,11 @@ def analyze_expense(user_input,prediction):
         food *= 0.8
         entertainment *= 0.7
         transport *= 0.9
-
+        
+  # Cap unrealistic food spending
+  if food > 0.35 * salary:
+        food = (0.25 + 0.02 * family_size) * salary
+          
   total_expenses=rent+food+transport+entertainment+other
   savings=salary-total_expenses
 
