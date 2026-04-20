@@ -35,73 +35,71 @@ def predict_expense(user_input,model,encoder,scaler):
 
 
 #adding suggestions
-def analyze_expense(user_input,prediction):
+def analyze_expense(user_input, prediction):
+    
+    #extract inputs
+    salary = user_input.get('salary', 0)
+    family_size = user_input.get('family_size', 1)
+    lifestyle = user_input.get('lifestyle', 'Medium')
 
-  salary=user_input['salary']
-  family_size = user_input.get('family_size', 1)
-  lifestyle=user_input['lifestyle']
+    #extract predictions
+    rent = prediction.get('Rent', 0)
+    food = prediction.get('Food', 0)
+    transport = prediction.get('Transport', 0)
+    entertainment = prediction.get('Entertainment', 0)
+    other = prediction.get('Other', 0)
 
-  rent=prediction['Rent']
-  food=prediction['Food']
-  transport=prediction['Transport']
-  entertainment=prediction['Entertainment']
-  other=prediction['Other']
-  
-  
-  #adjust spending based on lifestyle
-  if lifestyle == "High":
-        food *=1.2
-        entertainment*=1.3
-        transport*=1.1
-  elif lifestyle == "Low":
+    #lifestyle adjustment
+    if lifestyle == "High":
+        food *= 1.2
+        entertainment *= 1.3
+        transport *= 1.1
+
+    elif lifestyle == "Low":
         food *= 0.8
         entertainment *= 0.7
         transport *= 0.9
-        
-  # Cap unrealistic food spending
-  if food > 0.35 * salary:
+
+    #cap unrealistic food spending
+    if food > 0.35 * salary:
         food = (0.25 + 0.02 * family_size) * salary
-          
-  total_expenses=rent+food+transport+entertainment+other
-  savings=salary-total_expenses
 
-  insights=[]
+    #calculate totals
+    total_expense = rent + food + transport + entertainment + other
+    savings = salary - total_expense
 
-  #rule 1: high rent
-  if rent > 0.4*salary:
-    insights.append("Rent is to heigh compared to salary")
-  #rule 2: high food expense
-  if food > 0.3*salary:
-    insights.append("Food spending is high")
-  #rule 3: high transport
-  if transport > 0.2*salary:
-    insights.append("Transport cost seems is high")
-    transport= 0.15*salary
-  #rule 4: low savings
-  if savings < 0.1*salary:
-    insights.append("Low savings, Risky")
-  #rule 5: negative savings
-  if savings < 0:
-    insights.append("You are Overspending!")
-    #suggest adjustments
-    reduction_needed=abs(savings)
-    insights.append(f"Try Reducing expenses by ₹{int(reduction_needed)}")
-  if savings > 0.3 * salary:
-        insights.append(" Great saving habits!")
-  elif savings > 0.1 * salary:
-        insights.append(" Decent savings, can improve more")
-  
-  result={
-      "Rent":rent,
-      "Food":food,
-      "Transport":transport,
-      "Entertainment":entertainment,
-      "Other":other,
-      "Total Expenses":total_expenses,
-      "Savings":savings,
-      "Insights":insights
-  }
-  return result
+    #insights
+    insights = []
+
+    if rent > 0.4 * salary:
+        insights.append("Rent is too high")
+
+    if food > 0.3 * salary:
+        insights.append("Food spending is high")
+
+    if transport > 0.2 * salary:
+        insights.append("Transport cost is high")
+
+    if savings < 0:
+        insights.append("You are overspending!")
+
+    elif savings < 0.1 * salary:
+        insights.append("Low savings")
+
+    elif savings > 0.3 * salary:
+        insights.append("Good savings habit")
+
+    #final result
+    return {
+        "Rent": rent,
+        "Food": food,
+        "Transport": transport,
+        "Entertainment": entertainment,
+        "Other": other,
+        "Total Expense": total_expense,
+        "Savings": savings,
+        "Insights": insights
+    }
 
 #user input
 # prediction=predict_expense(user,model,encoder,scaler)
