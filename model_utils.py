@@ -39,13 +39,14 @@ def analyze_expense(user_input,prediction):
 
   salary=user_input['salary']
   family_size = user_input.get('family_size', 1)
+  lifestyle=user_input['lifestyle']
 
   rent=prediction['Rent']
   food=prediction['Food']
   transport=prediction['Transport']
   entertainment=prediction['Entertainment']
   other=prediction['Other']
-  lifestyle=user_input['lifestyle']
+  
   
   #adjust spending based on lifestyle
   if lifestyle == "High":
