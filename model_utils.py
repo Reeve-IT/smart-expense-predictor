@@ -38,6 +38,7 @@ def predict_expense(user_input,model,encoder,scaler):
 def analyze_expense(user_input,prediction):
 
   salary=user_input['salary']
+  family_size = user_input.get('family_size', 1)
 
   rent=prediction['Rent']
   food=prediction['Food']
